@@ -6,9 +6,9 @@ Nianmin Guo, Due 2019-01-11
 
 This mobile application will help the process of splitting a bill among multiple people. Application of similar purposes exist, but this project aims to reduce the confusion during usage. The application will ask for basic information like number of people and bill amount, and will then ask to create a seating map by creating dots on a screen. It will then ask the price for each item and whom it belonged to until the unsettled amount goes to zero. It will finally display the amount each person owes using the created seat map. 
 
-![Initial Selection](../resources/i01-p1-1.png)
+![Initial Selection](../resources/i01/i01-p1-1.png)
 
-![Setting up seat map](../resources/i01-p1-2.png)
+![Setting up seat map](../resources/i01/i01-p1-2.png)
 
 ![Adding items](../resources/i01/i01-p1-3.png)
 
