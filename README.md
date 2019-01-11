@@ -1,3 +1,13 @@
+# Welcome
+
+This is the website for the HCI course of spring 2019 semester.
+
+## Contents
+
+### Individual Works
+
+[I01: Project Brainstroming](./pages/I1-Project_Brainstorming)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Zenmai0822/hci-course/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
