@@ -1,5 +1,7 @@
 # HCI I2: UI Critique
 
+*This page can also be viewed at [hci.htr.app](https://hci.htr.app/pages/I2-UI_Critique)*
+
 Nianmin Guo, Due 2019-01-22
 
 ## The Good
