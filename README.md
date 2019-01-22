@@ -12,6 +12,7 @@ This is the personal website of Nianmin Guo for the HCI course in spring 2019 se
 ### Individual Works
 
 [I01: Project Brainstroming](./pages/I1-Project_Brainstorming)
+
 [I02: UI Critiques](./pages/I2-UI_Critique)
 
 ### Critiques
