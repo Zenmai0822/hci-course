@@ -8,7 +8,7 @@ papersize: letter
 
 Nianmin Guo, Due 2019-01-29 Tuesday.
 
-*Note: This assignment can also be viewed at [hci.htr.app](https://hci.htr.app/pages/I3-Ethnography.md)*
+*Note: This assignment can also be viewed at [hci.htr.app](https://hci.htr.app/pages/I3-Ethnography)*
 
 ## Summary
 
