@@ -37,7 +37,7 @@ Severity: Good
 The *Everything* and *Mine* table share the same structure, thus allowing the user to share a mental model between the tables.
 
 ![Everything Table](../resources/i06/i06-p3-1.png)
-![My Table](../resouces/i06/i06-p3-2.png)
+![My Table](../resources/i06/i06-p3-2.png)
 
 Usability Heuristics:
 
