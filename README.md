@@ -2,6 +2,10 @@
 
 This is the personal website of Nianmin Guo for the HCI course in spring 2019 semester.
 
+## Not For Github
+
+Please use the [webpage at hci.htr.app](https://hci.htr.app) to view as this project uses semi-hardcoded links.
+
 ## Contents
 
 ### Group Projects
