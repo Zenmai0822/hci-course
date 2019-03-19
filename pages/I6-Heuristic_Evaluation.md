@@ -2,7 +2,7 @@
 
 Reviewing: [**Chaotic Party Planners (Link)**](https://sites.google.com/view/chaotic-party-planners/home)
 
-*This page can also be viewed at [hci.htr.app](https://hci.htr.app/pages/I6-Heuristic_Evalulation)*
+*This page can also be viewed at [hci.htr.app](https://hci.htr.app/pages/I6-Heuristic_Evaluation)*
 
 Nianmin Guo, Due 2019-03-19
 
