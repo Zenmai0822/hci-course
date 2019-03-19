@@ -65,7 +65,7 @@ Severity: Cosmetic (Placement), and Low (Icon Missing)
 
 When adding items to the planning list, the program appears to perform no checks on input. I am able to enter duplicate items (Oranges), nothing, or a space. Technically they can be counted as valid items, but it will be rather confusing to users when they see duplicate or empty items.
 
-![Any Input is Accepted](../resource/i06/i06-p5-1.png)
+![Any Input is Accepted](../resources/i06/i06-p5-1.png)
 
 Usability Heuristics:
 
