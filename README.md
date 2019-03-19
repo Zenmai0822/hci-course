@@ -18,6 +18,8 @@ This is the personal website of Nianmin Guo for the HCI course in spring 2019 se
 
 [I03: Ethnography](./pages/I3-Ethnography)
 
+[I06: Heuristic Evaluation](./pages/I6-Heuristic_Evalulation)
+
 ### Critiques
 
 Note: Pages of assignments that have deadlines will be committed before the deadline, but pushed after it. Commit time can be verified in the github repo
